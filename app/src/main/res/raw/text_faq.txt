@@ -1,0 +1,256 @@
+How does a Pellet Grill work?
+
+The Broil King Pellet uses a powerful auger to feed wood pellets from the hopper into a steel burn pot in controlled intervals where they are lit by a high temperature ignition rod and fanned by a powerful electric fan into flame. This process delivers the appropriate temperate established at the control panel, regulated by the controller. Think of an oven powered by wood pellets, no make it ten times cooler! 
+
+How much ash does the Broil King pellet produce?
+
+Very little, in fact, one 20 lb. (9 kg) bag of pellets may only produce ½ of an ash cup full of ash or from 1 to 3% if its original volume. It’s very complete combustion.
+ 
+What is the minimum and maximum operational temperature?
+ 
+The Pellet operates from 200°F (93°C) to 600°F (316°C) comfortably.
+ 
+Why is there smoke coming from between the cook box and hopper?
+ 
+When loading pellets into the hopper, pellets can fall between the right side of the cook box and the left side of the hopper. This space acts as a buffer between the cook box and the pellets inside the hopper. Over time, this may result in some pellets that are in contact with the outside of the cook box to smolder and begin smoking.  To avoid this, be sure to always inspect, clean and prepare your Pellet Grill appropriately.
+
+Why is there smoke coming out from under my Pellet Grill?
+
+If your grill is brand new or you’ve recently cleaned the burn pot, then air will be escaping below the grill as the pellets start burning. This is perfectly normal. Once a fine layer of ash covers the sifting mechanism, smoke will stop flowing that direction. Remember to sift your burn pot every 3 to 4 cookouts and empty the ash catcher regularly. As a precaution check the following.
+Is the fan operating normally or at all?
+Are the internal grease tray and baffle components installed properly?
+Has the burn pot backed up without combusting?
+Are your pellets oversaturated with moisture and only smoking?
+
+
+Why is there smoke coming out of my grease trap?
+
+During the start-up phase the Pellet Grill is under pressure but has not established its air flow convection yet. Once heat starts to push through the unit the chimney will become the primary smoke point until then smoke escapes where it can. As a precaution check the following.
+
+Is the fan operating normally or at all?
+Are the internal grease tray and baffle components installed properly?
+Has the burn pot backed up without combusting?
+Are your pellets oversaturated with moisture and only smoking?
+
+Why is there smoke coming out of my hopper?
+
+During the start-up phase the Pellet Grill is under pressure but has not established its air flow convection yet. Once heat starts to push through the unit the chimney will become the primary smoke point until then smoke escapes where it can. Smoking coming from the hopper can be an indication of low pellet fuel levels, a minor amount of burn back in the auger or start-up system pressure. As a precaution check the following.
+
+Is the fan operating normally or at all?
+Are the internal grease tray and baffle components installed properly?
+Has the burn pot backed up the auger without combusting?
+Are your pellets oversaturated with moisture and only smoking?
+ 
+There are hot embers between my cookbox and the pellet hopper, where are they coming from?
+ 
+Your cook box gets hot, some pellets most likely fell between the cookbox and the hopper as you were adding them to the hopper and have started to smolder under the heat. Once your pellet is cool, clear them out safely and avoid spilling into this gap in the future.
+
+How many BTU’s does the Broil King Pellet produce?
+
+1.   Pellet Grill BTU's
+BTU's are a tricky measure to understand performance of a product - especially for Pellet Grills.  When we are designing a product, our focus is on the performance criteria and product longevity.  In the case of the Pellet Grill we wanted to reach searing temperatures across the grilling surface of 600F and be able to perform effectively at lower temperatures.  To do this we created our cooking system to include heavier material gauges, a larger more efficient burn pot, solid core auger, larger motor, heavy cast iron grids, enhanced controller, etc.  The entire system works in concert to maximize the heat output of the fuel so we can reach desired temperatures while operating efficiently so the product is not over consuming pellets (fuel hogg) - particularly in cooler climates where outside temperature can be a major factor in fuel consumption.
+ 
+So, with that said, here is our BTU calculation:
+ 
+Max Fuel Consumption at average outdoor temperature of 74 F and grill set temperature of 600F over 1 hour:
+P625: open lid. 4.4Lbs.   close lid: 2.8Lbs.
+P500: open lid. 4.0Lbs.   close lid: 2.4Lbs.
+ 
+Therefore, Max BTU Output:
+Pellet XL - 40,000BTU
+Pellet 500 - 36,000BTU
+ 
+2. Auger Motor.
+RPM: 3.6~3.8
+Torch: 120kgf.cm.min.
+Voltage: 120V. 60Hz. 40W.
+amps: 0.35A. 
+
+Total Amps: 2.6 amps with Hot Rod, Auger and Controller.
+
+Why do I have to put water in my grease tray to “prime it”?
+ 
+The water prevents the grease from heating to the point of combustion and makes cleanup considerably easier.
+ 
+ 
+I just turned my Pellet on for the first time and it smells like burnt oil, what’s wrong?
+ 
+The first time you start up your Pellet Grill you need turn burn off the oil left on many metal surfaces from the manufacturing process. This burn off is also an essential step toward cleaning and seasoning your cast iron cooking grids for the first time.
+ 
+ 
+What kind of pellets should I use in my Pellet Grill?
+ 
+Only use Broil King brand pellets or other cooking grade pellets with your Pellet Grill, do not use heat pellets meant for wood stoves as they may contain harmful or poor tasting compounds.
+ 
+ 
+
+Can I start my pellet with the lid down?
+
+No, we recommend that you hook your Broil King grid lifter into a cooking grid as a lid prop to start your Pellet Grill or start it with the lid completely open. The initial smoke will be very intense, not ideal for cooking, and is an indication that the burn pot has not yet started to burn. Once the smoke has subsided or cleared close the lid and begin the preheating process. Approximately 7-15 minutes.
+ 
+ 
+What is the little door for on the back of the hopper?
+
+The trap door on the back of the hopper is a quick exit for pellets; when you’re done smoking for more than a week, dump them out. Pellets absorb moisture easily and will break apart into a pulp if left outside for an extended period of time. We recommend that you always use the trap door to empty the pellet hopper before storing your pellet or leaving it unattended for longer than a few days.
+ 
+ 
+All I have is pellet dust left, can I burn it in my Pellet Grill?
+
+No, pellet dust is extremely flammable and can become airborne while grilling ruining the great taste of grilled foods. Only grill with good quality solid Broil King pellets.
+ 
+ 
+How long does the fan run after I turn off the grill?
+
+After you power your Broil King Pellet Grill down the fan will run for an additional 15 minutes to ensure the pellets in the burn pot are completely burnt up or until the internal cookbox temperature has reached 160°F (71°C)
+ 
+ 
+Where is my model number and serial number located?
+
+On your Pellet Grill the model number and serial number is located under the lid of the hopper.
+ 
+ 
+What do I do in the event of a grease fire?
+
+In the event of a grease fire turn off your Pellet Grill and unplug it at the source, then close the lid. A small fire will go out without additional effort, clean the grill thoroughly regularly to avoid or if you experience a grease fire. In the event of a larger fire extinguish the flames using baking soda or a fire extinguisher, never use water to put out a grease fire.
+ 
+ 
+Why isn’t my grill smoking very much?
+Smoke is generated intermittently, depending on your cook setting. If you are cooking above 350°F the burn pot will have a consistent flame most of the time, flaming wood produces little smoke. While using the smoke settings more smoke will be produced at longer intervals. The higher the temperature, the less smoke the grill will produce.
+ 
+
+How large are the temperature swings on my Pellet, what kind of range can I expect?
+ 
+During start up the grill will be working hard pushing pellets into the burn pot to get the internal temperature to your desired setting. This will cause the grill to initially overshoot the temperature by as much as 40 - 50°F but the on board PID logic will wait for the grill to cool down and dial in to within plus or minus 10°F under the worst weather conditions; much tighter in ideal conditions.
+ 
+ What is the warranty on my Pellet Grill?
+
+2 + 5-year limited warranty, backed by a company with over 30 years of grilling expertise. 2 Years on electronics and peripheral components / 5 Years on the cookbox and burn pot.
+
+Why is my paint discoloring or peeling?
+Intense heat over time or a localized grease fire can damage the exterior paint on your Pellet Grill. High heat black paint is a great touch up tool after the metal is cleaned; the metal can also be cleaned and seasoned with cooking oil and maintain a dark black finish. Remember, the inside of your Pellet Grill is not painted, since paint is not necessary inside your grill.
+ 
+Where should I store my wood pellets?
+
+We recommend that you store your pellets indoors in a cool dry place, moisture is a wood pellets worst enemy, they’re absorbent like kitty litter and crumble once exposed.
+ 
+Why is my Pellet Grill popping?
+
+As the metal heats it expands it can pop. The popping sound that your hearing is part of the heating and cooling process, once it reaches its target temperature the sound will stop. This may only happen when heating to high grilling temperatures.
+ 
+
+
+Will all the ash fall into the burn pot?
+
+While much of the pellet ash will fall into the burn pot, some may blow out and settle around it. This ash is called fly ash and is common to Pellet Grills. We recommend that you remove the heat partitions and vacuum out the ash after 30 hours of cook time to ensure best performance.
+
+Why is my Pellet Grill tripping the breaker when I turn it on?
+ 
+A Pellet Grill is an electric outdoor appliance and can encounter challenges when saturated with water. If your burn pot has been soaked with rainwater, it can cause the hot rod to short out and trip a breaker or GFI. Start the Pellet manually or remove and dry the burn pot to alleviate this issue.
+To start your pellet manually:
+Turn off and unplug your Pellet Grill
+Remove the 4 screws from the controller face plate
+Remove the controller
+Disconnect the hot rod wires (two white wires)
+Remove the grids and all heat plates from the grill
+Plug it back in
+Turn it on and select the desired cook setting
+Light the pellets with a small quantity of pre-lit pellets, pre-lit charcoal, etc.
+Do not reassemble the grill until the pellets have started their regular burn sequence
+Reassemble then cook normally for 30 minutes, reconnect the hot rod leads since they should now be dry and operational 
+ 
+Why is my grill smoking but not heating?
+
+The fan may not be operational. To check the fan, turn off the Pellet Grill and unplug it. Remove the 5 screws on the bottom plate underneath the hopper. The wires will be visible. Inspect the fan and make sure there are no obstructions. If this does not help, remove the heat plates and inspect the burn pot.
+Burn pot overflow:
+The burn pot can fill and completely snuff combustion, this will generally trigger the ERR warning on the controller display
+Turn off your Pellet Grill and unplug it
+Make sure the grill is cool – especially the hot rod
+Remove the grids and heat plates
+Vacuum or scoop out the pellets in the burn pot
+Ensure the hot rod is clear of obstructions or damage
+Sift any remaining pellets or ash
+ 
+
+I took my heat plates out to see my Pellet Grill light and it’s generating a tower of flames? Is it okay?
+ 
+In the burn pot a hot rod, which is a small super heated element, heats the pellets to the point of combustion. An onboard fan forces air into the burn pot to encourage the pellets to burn at a higher temperature. More fuel, more fire, bigger tower of flame, that’s why we have heavy duty heat plates and that tower is what gives us the high heat searing ability!
+
+How quickly does the Broil King Pellet consume pellets?
+ 
+When you’re smoking low and slow the Pellet generally burns 1 pound (.45 kg) per hour. However, when grilling on high the pellet burns 3.4-4 pounds (1.54 kg) per hour. Weather can alter these consumption rates slightly.
+ 
+Why doesn’t my grill power on?
+
+First, make sure the grill is plugged in and the blue light on the controller display is illuminated. If there is still an issue, remove the 4 screws on the front of the controller and check the connector cables inside the hopper. Make sure the connectors are fully pressed together and that there are no damaged wires. If the problem continues, contact our customer service line.
+ 
+Why isn’t my Pellet lighting?
+
+First, check to make sure the pellets from the hopper have made their way into the auger and that the auger is turning. If there is no movement, there may be a jam in the auger. See our website for an instructional video on how to repair a jammed auger. If there is no problem with the auger inspect the hot rod. To do this remove all the heat plates inside the unit and expose the burn pot. The hot rod will be on the right side of the burn pot, below the auger hole and if operating correctly will glow red during the start up sequence. If it is not functioning correctly, remove the burn pot and make sure the wire connector inside the unit is pressed together tightly and undamaged.
+
+Why doesn’t my auger move?
+
+First, remove the 4 screws securing the controller to the hopper and inspect the wire connections. Another cause could be that the auger is jammed by pellets that have absorbed moisture and expanded in the auger chamber. This will lead to the pellets becoming very hard and difficult to move. To remove the auger, see our website for an instructional video.
+
+
+
+There’s a lot of noise coming from my auger, why?
+
+As the metal heats it expands it can pop. The popping sound that your hearing may be part of the heating and cooling process, once it reaches its target temperature the sound will stop. This may only happen when heating to high grilling temperatures. The grills auger may also make noise while pushing pellets through the auger tube. Hard pellets being forced against metal may make a creaking sound and we found that using our Broil King 100% hardwood pellets that have a smaller 5.5mm diameter than some of our competitors (6.6mm – 7.1mm) which keeps your grill running much quieter.
+
+Why isn’t my fan running?
+
+There could be an issue with the connectors being loose or unplugged inside the unit. Remove the 4 screws on the front of the controller and inspect the connections. If you are hearing a whirring or pulsing sound, that is normal while set to temperatures lower than 230°F
+ 
+How do I clear an auger jam?
+ 
+Ensure hopper is empty
+Remove antenna and the 5 screws in bottom panel of hopper (easiest angle to remove nut from antenna connector)
+unscrew antenna nut (shortest wire),
+Remove 4 screws for controller and unclip controller wires,
+Place controller aside safely
+Remove 4 screws at the bottom of the hopper underneath the lid,
+Remove 8 screws holding hopper to cook box (4 on front 4 on back)
+carefully lower hopper and set aside.  
+Remove 4 screws to detach motor assembly
+remove set screw to detach auger/motor from unit,
+use screwdriver as a lever to pull/push auger/motor assembly out of auger housing. The auger/motor assembly is held together with a set screw that has Loctite applied to it and cannot be separated. This means we must replace the entire auger/motor assembly and not just the individual auger component. 
+Replace with new auger/motor assembly in opposite order
+To remove the auger, see our website for an instructional video.
+
+How do I change out the controller module?
+Remove antenna from the bottom of the hopper
+Remove 5 screws in bottom of hopper (easiest angle to remove nut from antenna)
+unscrew antenna nut (shortest wire)
+carefully cut zip tie inside hopper
+remove 4 screws from the front of controller display
+pull controller unit out a few inches
+unclip connectors
+Replace new controller components in opposite order
+
+ How do I change between °C and °F?
+
+To change between °C and °F simply hold down the settings button, the small button with the gears logo nearby, for 5 seconds. The display units on the screen will change from one unit of measure to the other.
+
+The rubber gasket on the side of my cook box doesn't have a hole in it for the probe to go through.
+
+The rubber gasket does not have a hole initially. You must poke a hole through the gasket with one of the probes when inserting it for the first time
+ 
+Why is there rust on my Pellet Grill after I just unpackaged it?
+ 
+This is not your grill rusting. There is a binding agent that we use that will turn red when exposed to air after the manufacturing of the product is complete. You will mostly find this red substance around the lid opening underneath the gasket. This can be washed off with a damp cloth(soap and water). It can also be prevented even further by seasoning your grill with oil.
+ 
+ 
+How Long before my Pellet Grill reaches the temperature I selected?
+
+Depending on the temperature you’ve selected, the Pellet Grill can take between 30-45 minutes to fully dial in on the desired set temperature. The initial heat cycle will cause the temperature inside the cook box to rise considerably (30-50°F) higher than your set temperature but after a few minutes, it will return to the temperature you selected
+ 
+Why is my Pellet Grill Turning off mysteriously after I start it?
+As a safety measure, if your grill does not reach 180°F after 30 minutes, the grill will go into shutdown mode. This is to keep your grill from operating improperly and potentially damaging the unit. To avoid this, set the temperature higher than 180°F during start up.
+
+Can I operate my Broil King Pellet Grill if I broke the ground plug?
+
+No. It is not safe to operate the unit with a missing ground plug.
+
+Where can I find the Pellet Manual?
+
+The manual can be found at broilkingbbq.com
